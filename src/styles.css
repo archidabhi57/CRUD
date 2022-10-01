@@ -1,0 +1,75 @@
+.menu {
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 700;
+}
+.row {
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+}
+.name {
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+.img2 {
+  height: 400px;
+  background-image: linear-gradient(
+    to right,
+    pink,
+    lightblue,
+    rgb(105, 230, 230)
+  );
+}
+.img1 {
+  height: 400px;
+  background-image: linear-gradient(
+    to right,
+    pink,
+    lightblue,
+    rgb(105, 230, 230)
+  );
+}
+.divsize1 {
+  height: 155px;
+  margin-left: 15px;
+}
+.divsize2 {
+  height: 155px;
+  margin-left: 15px;
+}
+.size {
+  height: 278px;
+  margin-top: 40px;
+  margin-left: 10px;
+  background-image: url("https://media.istockphoto.com/vectors/multicolored-pastel-abstract-background-light-gradient-diffused-white-vector-id1179215846?k=20&m=1179215846&s=170667a&w=0&h=VeoZmcVqxHxlYEqxlUiZ1_uv9LMKb330MYX4d6JLeU0=");
+  background-repeat: no-repeat;
+}
+.backimg {
+  background-image: url("https://thumbs.dreamstime.com/b/bangalore-chinnaswamy-stadium-karnataka-india-october-cubbon-rd-bengaluru-ipl-indian-premier-league-175004938.jpg");
+}
+.text1 {
+  color: white;
+}
+.text2 {
+  color: white;
+}
+.dName1 {
+  background-image: linear-gradient(
+    to right,
+    pink,
+    lightblue,
+    rgb(105, 230, 230)
+  );
+}
+.dName2 {
+  background-image: linear-gradient(
+    to right,
+    pink,
+    lightblue,
+    rgb(105, 230, 230)
+  );
+}
